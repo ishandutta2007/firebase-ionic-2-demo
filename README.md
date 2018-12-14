@@ -111,3 +111,10 @@ $ ionic run android
 - In the app dashboard Home screen, click on the **Add Firebase to your web app** link, and copy the contents of the modal; then make your way to the `src/providers/data/data.service.ts` file of this repo, and replace the database details listed on lines 17-20 with the details from your database.
 
 Cake and grief counseling will be available at the conclusion of the test.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
